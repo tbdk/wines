@@ -1,6 +1,11 @@
 # wines
 Whitelist and blacklist of wines I've tried
 
+Whitelist
+=========
+
+- Primo nativo rosso Puglia, 2015
+
 Blacklist
 =========
 
